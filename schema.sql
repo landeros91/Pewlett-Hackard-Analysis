@@ -43,9 +43,7 @@ CREATE TABLE titles (
 	emp_no INT NOT NULL,
 	title_name VARCHAR NOT NULL,
 	from_date DATE NOT NULL,
-	to_date DATE NOT NULL,
-	FOREIGN KEY (emp_no) REFERENCES employees (emp_no),
-	PRIMARY KEY (emp_no)
+	to_date DATE NOT NULL
 );
 
 -- This is the dept_emp table
@@ -66,3 +64,13 @@ SELECT * FROM dept_manager;
 SELECT * FROM salaries;
 SELECT * FROM titles;
 SELECT * FROM dept_emp;
+
+-- Successful Tables with csv
+	--departments
+	--employees
+	--dept_manager
+	--salaries
+	--dept_emp
+	--titles (Finally SUCCESSFUL)
+	
+DROP TABLE titles;
