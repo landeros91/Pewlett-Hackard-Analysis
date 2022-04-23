@@ -16,6 +16,7 @@ The purpose  of the Pewlett Hackard project is to to analyze the 6 csv files con
 
 ## Summary
 1. There will be a total of 90,398 roles that will need to be filled dur to the "Silver Tsunami". There are 7 particular roles at different levels. Most are Senior Engineers coming in at 29,414, and from a manger perspective only 2 positions will need filling.
+
 ![image](https://user-images.githubusercontent.com/98666281/164949515-878603b7-2105-4349-9cd0-60a454c300ed.png)
 
 2. There is not enough retirement-ready employees to mentor the next generation. With only 1,549 the mentors would have to be broken up to their respcected fields to give the new hires well rounded mentorship. For example, you can not assign a staff member to mentor someone for a manager position witout having that experience.
