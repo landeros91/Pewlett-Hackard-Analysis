@@ -5,4 +5,14 @@ The purpose  of the Pewlett Hackard project is to to analyze the 6 csv files con
 
 ### Resources
 - Data Source: departments.csv, employees.csv, salaries.csv, dept_manager.csv, dept_emp.csv, titles.csv
-- 
+
+## Results
+- count	title_name
+29414	Senior Engineer
+28254	Senior Staff
+14222	Engineer
+12243	Staff
+4502	Technique Leader
+1761	Assistant Engineer
+2	Manager
+![image](https://user-images.githubusercontent.com/98666281/164949515-878603b7-2105-4349-9cd0-60a454c300ed.png)
