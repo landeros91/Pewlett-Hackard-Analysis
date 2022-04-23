@@ -12,4 +12,4 @@ The purpose  of the Pewlett Hackard project is to to analyze the 6 csv files con
 -Total of 90,398 employees will retire.
 -1549 employees will qualify for mentorhsip program.
 ![image](https://user-images.githubusercontent.com/98666281/164949515-878603b7-2105-4349-9cd0-60a454c300ed.png)
-![image](https://user-images.githubusercontent.com/98666281/164949627-08c9fc02-7ae3-495a-b3ba-c79640dd69cb.png)
+
