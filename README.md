@@ -20,4 +20,5 @@ The purpose  of the Pewlett Hackard project is to to analyze the 6 csv files con
 ![image](https://user-images.githubusercontent.com/98666281/164949515-878603b7-2105-4349-9cd0-60a454c300ed.png)
 
 2. There is not enough retirement-ready employees to mentor the next generation. With only 1,549 the mentors would have to be broken up to their respcected fields to give the new hires well rounded mentorship. For example, you can not assign a staff member to mentor someone for a manager position witout having that experience.
+
 ![image](https://github.com/landeros91/Pewlett-Hackard-Analysis/blob/main/Data/Breakdown_summary.png)
